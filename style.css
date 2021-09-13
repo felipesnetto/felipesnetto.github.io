@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:17px/1.5 Palatino, 'Palatino Linotype', serif;
-  color:#707181  ;
+  color:#272439  ;
   font-weight:300;
   text-align:justify;
 
@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#1D183E;
 }
 
 h3, h4, h5, h6 {
-  color:#393939;
+  color:#1D183E;
   text-align:justify;
 }
 
@@ -139,7 +139,7 @@ header li {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#152A8E;
   display:block;
   text-align:justify;
   padding-top:6px;
