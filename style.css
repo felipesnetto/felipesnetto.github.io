@@ -2,8 +2,8 @@
 
 body {
   padding:50px;
-  font:17px/1.5 Palatino, 'Palatino Linotype', serif;
-  color:#272439  ;
+  font:16px/1.5 Palatino, 'Palatino Linotype', serif;
+  color:#000000  ;
   font-weight:300;
   text-align:justify;
 
@@ -41,7 +41,7 @@ h4 {
  }
 
 a {
-  color:#990000;
+  color:#00017B;
   font-weight:400;
   text-decoration:none;
 }
