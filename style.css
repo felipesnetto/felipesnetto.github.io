@@ -43,9 +43,8 @@ h4 {
 a {
   color:#00017B;
   font-weight:400;
-  text-decoration:none;
-  font-style:underline;
-}
+  text-decoration:underline;
+  }
 
 a small {
   font-size:11px;
