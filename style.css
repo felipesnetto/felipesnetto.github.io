@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:16px/1.5 Palatino, 'Palatino Linotype', Arial;
-  color:#0F1F6C  ;
+  color:#000000  ;
   font-weight:300;
   text-align:justify;
 
@@ -43,6 +43,7 @@ h4 {
 a {
   color:#00017B;
   font-weight:400;
+  text-decoration:underline;
 }
 
 z {
