@@ -46,6 +46,12 @@ a {
   text-decoration:underline;
 }
 
+a2 {
+  color:#00017B;
+  font-weight:350;
+  text-decoration:underline;
+}
+
 a small {
   font-size:11px;
   color:#777;
