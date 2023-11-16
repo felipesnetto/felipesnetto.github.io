@@ -47,8 +47,9 @@ a {
 }
 
 z {
-  color:#868b9c;
-  font-weight:350;
+  #414554;
+  font-weight:350
+  font-size:16px;
 }
 
 a small {
