@@ -30,13 +30,18 @@ h2 {
   color:#1D183E;
 }
 
-h3, h4, h5, h6 {
+h3, h4, h6 {
   color:#1D183E;
   text-align:justify;
 }
 
 h4 {
   color:#6807A7;
+  text-align:right;
+ }
+
+ h5 {
+  color:#000000;
   text-align:right;
  }
 
