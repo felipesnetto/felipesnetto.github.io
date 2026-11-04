@@ -210,3 +210,43 @@ footer {
   position:fixed;
   bottom:50px;
 }
+
+
+/* Responsive layout for tablets and phones */
+@media screen and (max-width: 1120px) {
+
+    body {
+        padding: 20px;
+    }
+
+    .wrapper {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    header, section, section2, footer {
+        width: 100%;
+        float: none;
+        position: static;
+    }
+
+    header {
+        margin-bottom: 25px;
+    }
+
+    section, section2 {
+        display: block;
+        padding-top: 0;
+        padding-bottom: 25px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    p, a {
+        overflow-wrap: anywhere;
+    }
+}
